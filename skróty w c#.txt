@@ -1,0 +1,36 @@
+prop
+propfull + tab >>> dodanie w³aœciwoœci klasy
+cyor >> kontruktor domyœlny
+
+StartsWith("Krzes³o") - sprawdza czy dany string zaczyna siê od s³owa "Krzes³o"
+
+public const double CaliNaMetr = 38.87;  - to jest sta³a wartoœæ niezmienna
+public readonly decimal MinimalnaCena;  - mo¿e byæ przypisana wartoœæ przy deklaaracji 
+	albo w konstruktorze klasy(tam mo¿na daæ if-a czy cuœ i sparametryzowaæ wartoœæ MinimalnaCena)
+
+Sta³a mo¿e byæ tylko typu: liczba, boolean, string
+Pole tylko do odczytu: dowolny typ danych
+
+jak przy metodzie damy 3x"/" i enter to wyskoczy nam komentarz xml
+
+Klikasz 2 razy na klasê i F12 i przerzuca ciebie do klasy
+
+
+!String.IsNullOrWhiteSpace(instukcje)	sprawdza czy nie ma spacji albo czy string nie jest nullem 
+
+public enum DolaczAdres { Tak, Nie }; - robi tak¹ listê i wywo³anie wygl¹da np. DolaczAdres.Tak
+
+zmiana liter z ma³ych na du¿e => .ToUpper();
+zmiana liter z du¿ych na ma³e => .ToLower();
+Zast¹pienie jednego wyrazu w stringu drugim => .Replace("tekst1", "tekst2");
+Okreœlenie czy ³añcuch znaków zaczyna siê od okreœlonych znaków albo koñczy siê od okreœlonych znaków
+	.StartsWith("Dost");	.EndsWith("wca");
+
+
+Przy debugowaniu jak wciska siê F10 to przeskakujê siê do kolejnej linii kodu
+
+using System.Tekst;
+nowyTekst = new StringBuilder("podstawowy tekst"); - klasa na której mo¿na bardziej wydajnie u¿ywaæ ³¹czenia stringów
+nowyTekst.Appen("dodany tekst");		//dodaje tekst
+
+tekstOczekiwany = nowyTekst.ToString(); 

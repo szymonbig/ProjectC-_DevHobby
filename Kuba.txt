@@ -1,0 +1,21 @@
+commit push pull merge checkout
+Ogarn¹æ SQL
+	Join
+
+Podstawy Java script
+
+dotnet 
+dotnet core
+
+mvc - struktura programu
+
+asp dotnet mvc, core mvc
+
+solit - co to znaczy
+
+
+web api - (dotnet)
+
+Dokumentacja microsoftu
+
+ 

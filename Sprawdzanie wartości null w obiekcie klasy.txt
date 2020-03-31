@@ -1,0 +1,14 @@
+np.
+
+if(produkt != null && DostawcaProduktu != null)
+{
+	var nazwaFirmy = produkt?.DostawcaProduktu?.NazwaFirmy 
+}
+
+to jest tak samo jak:
+
+var nazwaFirmy = produkt?.DostawcaProduktu?.NazwaFirmy 
+
+Jeœli zmienna po lewej stronie ma wartoœæ NULL, wyra¿enie ma wartoœæ NULL
+
+Jeœli zmienna po lewej stronie nie ma wartoœci NULL, kontunujemy od kropki

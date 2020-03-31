@@ -1,0 +1,6 @@
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.DAL\bin\Debug\DevHobby.DAL.dll
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.DAL\bin\Debug\DevHobby.DAL.pdb
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.DAL\obj\Debug\DevHobby.DAL.csprojAssemblyReference.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.DAL\obj\Debug\DevHobby.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.DAL\obj\Debug\DevHobby.DAL.dll
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.DAL\obj\Debug\DevHobby.DAL.pdb

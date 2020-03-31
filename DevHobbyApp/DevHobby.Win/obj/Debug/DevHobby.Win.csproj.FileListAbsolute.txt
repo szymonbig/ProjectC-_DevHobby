@@ -1,0 +1,9 @@
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Win\bin\Debug\DevHobby.Win.exe.config
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Win\bin\Debug\DevHobby.Win.exe
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Win\bin\Debug\DevHobby.Win.pdb
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Win\obj\Debug\DevHobby.Win.csprojAssemblyReference.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Win\obj\Debug\DevHobby.Win.Properties.Resources.resources
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Win\obj\Debug\DevHobby.Win.csproj.GenerateResource.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Win\obj\Debug\DevHobby.Win.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Win\obj\Debug\DevHobby.Win.exe
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Win\obj\Debug\DevHobby.Win.pdb

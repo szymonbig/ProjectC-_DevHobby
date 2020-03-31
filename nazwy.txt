@@ -1,0 +1,8 @@
+DevHobbyApp
+
+DevHobby.BLL
+DevHobby.Common
+DevHobby.DAL
+DevHobby.Win
+DevHobby.Wpf
+DevHobby.Web

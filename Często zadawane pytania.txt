@@ -1,0 +1,158 @@
+1. Jaka jest ró¿nica pomiêdzy w³aœciwoœci¹ a metod¹? 
+	W³aœciwoœæi s¹ stra¿nikami, zapewniaj¹ dostêp do danych
+	Metody to operacja
+
+
+2.Co to jest konstruktor?
+	Metoda wykonywana, gdy instancja klasy jest tworzona
+
+
+3.Jaki jest cel przestrzeni nazw?
+	Porz¹dkuje klasy w logicznej hierarchii 
+	Zapobiega kolizjom nazw klas
+
+
+4.Co to jest klasa statyczna?
+	Klasa, której nie mo¿na utowrzyæ
+	Najlepiej jest jej u¿ywaæ ze wspólnymi biliotekami kodów
+
+
+5.Co to jest Singelton?
+	Klasa, która zapewnia pojedyncz¹ instancjê samej siebie
+
+
+6.Jaka jest ró¿nica miêdzy klas¹ statyczn¹ a singleton?
+	Egzemplarz klasy statycznej nie mo¿e byæ utworzony
+	Singleton mo¿e utworzyæ instancjê i dostarczyæ tê instancjê
+
+
+7.Jaka jest ró¿nica miêdzy obiektem a klas¹?
+	Klasa to szablon, który okreœla dane i operacje dla jednostki
+	Obiekt jest instancj¹ tej klasy utworzon¹ w œrodowisku wykonawczym przy u¿yciu s³owa kluczowego new
+
+
+8.Co to jest "lazy loading" i kiedy z niego korzystasz?
+	Tworzenie obiektów powi¹zanych, kiedy s¹ potrzebne, a nie wczeœniej
+	Czêsto polega to na tworzeniu instancji w geterze w³aœciwoœci dla powi¹zanego obiektu
+
+
+9.Wyjaœnij zasadê enkapsulacji danych?
+	Dane obiektu powinny byæ dostêpne tylko dla obiektu
+	Pola zawieraj¹ce dane obiektu powinny byæ oznaczone jako prywatne
+
+
+10.Co to jest pole zaplecza?
+	Zmienna w klasie u¿ywana do przechowywania danych ka¿dego obiektu
+
+
+11.Kiedy u¿ywaæ pola zaplecza?
+	Dla ka¿dego pola danych przechowywanych przez obiekt
+
+
+12.Kiedy u¿ywaæ sta³ej?
+	Podczas definiowania pola z prostym typem danych, które nigdy siê nie zmieni(na liczba pi)
+
+
+13.Kiedy nale¿yæ pola tylko do odczytu?
+	Podczas definiowania pola zainicjowanego z pliku, tabeli lub kodu i nie nale¿y go zmieniaæ 
+	nigdzie indziej ni¿ w aplikacji.
+
+
+14.Jak jest ró¿nica miêdy polem sta³ym a polem tylko do odczytu?
+	Sta³a:
+		*Jest statyczna
+		*Przypisana w deklaracji
+		*Przypisany do wyra¿enia, które jest w pe³ni analizowane(znane) podczas kompilacji
+	
+	Pole tylko do odczytu:
+		*Mo¿e byæ statyczne lub niestatyczne
+		*Przypisane w deklaracji lub w konstruktorze
+		*Przypisane do dowolnego prawid³owego wyra¿enia
+	
+
+15.Jaki jest g³ówny cel w³aœciwoœci?
+	Aby chroniæ dostêp do pól klasy
+	Opcjonalnie dodajemy logikê
+
+
+16.Co to s¹ w³aœciwoœci automatycznie implementowane?
+	Skrócona sk³adnia do definiowania niejawnego pola zaplecza wraz z powi¹zanymi w³aœciwoœciami geterem i seterem
+
+
+17.Kiedy powinno siê u¿yæ w³aœciowœci automatycznie zaimplementowanych?
+	Podczas tworzenia prostych w³aœciwoœci dla klasy
+
+
+18.Kiedy nie powinieneœ u¿ywaæ w³aœciwoœci automatycznie zaimplementowanej?
+	Jeœli w³aœciwoœæ wymaga dowolnego kodu w geterze i seterze
+
+
+19.Jaki jest podstawowy cel metody?
+	Aby zaimplementowaæ logikê wymagan¹ do okreœlonego zachowania lub funkcjonalnoœci w klasie
+
+
+20.Jaka jest ró¿nica miêdzy parametrem a argumentem?
+	Parametr jest czêœci¹ sygnatury metody
+	Argument jest czêœci¹ wywyo³ania metody
+
+
+21.Czym jest przeci¹¿enie metod?
+	Metody o tej samej nazwie i przeznaczeniu, ale o ró¿nych sygnaturach
+
+
+22.Co to jest metoda ³añcuchowa?
+	Przeci¹¿enie jednej metody wywyo³uje kolejne przeci¹¿enie, aby zapobiec powtarzania siê kodu
+
+
+23.Kiedy najlepiej stosowaæ przeci¹¿enie metod a kiedy przes³oniêcie(nadpisywanie metod)?
+	Przeci¹¿enie stosowaæ gdy jedna metoda wymaga wielu sygnatur
+		*Takich jak PobierzKlienta(id), aby uzyskaæ klienta po id
+		*PobierzKlienta(nazwa), aby uzyskaæ klienta po nazwie
+	U¿yj przes³oniêcia podczas zastêpowania metody zdefiniowanej wy¿ej w hierarchii obiektów
+		*Takich jak zast¹pienie metody ToString()
+
+
+
+24.Co to jest expression-bodied method?
+	Skrócona sk³adnia dla pojedynczych instrukcji, które zwracaj¹ wartoœæ
+
+
+25.Co to jest nazwany argument i kiedy nale¿y go stosowaæ?
+	Nazwany argument u¿ywa nazwy parametru podczas wywo³ywania metody
+	S³u¿y do wyjaœnienia celu argumentu i zdefiniowania argumentów bez obawy o ich pozycjê na liœcie parametrów
+
+
+26.W jaki sposób zdefiniowano parametr opcjonalny?
+	Podaj¹c wartoœæ domyœln¹
+
+
+27.Jaka jest ró¿nica miêdzy przekazaniem argumentu przez wartoœæ a przez referencjê? (Wa¿ne !!!)
+	Przy przekazywaniu przez wartoœæ (która jest domyœlna), wartoœæ argumentu jest przekazywana do metody
+	Przy przekazywaniu przez odniesienie (za pomoc¹ ref lub out) zmienna jest skuteczenie przekazywana do metody
+	Z tego wzglêdu przekazywanie przez odniesienie umo¿liwia zmianê wartoœci parametru i odzwierciedlenie tej zmiany w kodzie wywo³uj¹cym
+	Czyli jak mamy zmienn¹ i ona jest paramterem metody to metoda mo¿e zmieniæ wartoœæ zmiennej !!!
+
+
+28.Jaka jest ró¿nica miêdzy ref a out?
+	Parametr ref wymaga, aby argument zosta³ zainicjowany przez jego przekazaniem. Metoda mo¿e modyfikowaæ wartoœæ parametru ref.
+	Parametr out musi byæ zadeklarowany, ale nie zainicjowany przed jego przekazniem. Metoda musi dostarczyæ wartoœæ dla parametru out.
+
+	
+29.Co to znaczy, ¿e ci¹gi tekstowe (stringi) s¹ niezmienne?
+	Oznacza to, ¿e ³añcuchów nie mo¿na modyfikowaæ po ich utowrzeniu, gdy siê je zmienia to visualStudio tworzy nowy string
+
+
+30.Czy ci¹g znaków jest typem wartoœci czy typem odniesienia?
+	String jest typem odniesienia
+	Dzia³a jak typ wartoœci
+
+
+31.Jaki jest najlepszy sposób sprawdzania ci¹gów które s¹ null?
+	U¿ywanie String.IsNullOrWhiteSpace jest dobre podczas sprawdzania wartoœci null dla bloku kodu
+	U¿ywanie nowego operatora warunkowego w C# ("?") jest dobre dla pojedynczych instrukcji kodu
+
+
+32. Jakie s¹ zalety korzystania z StringBulder?
+	Klasa .NET StringBuilder jest zmienna, co oznacza, ¿e mo¿na j¹ ³atwo zmieniæ
+	U¿ywanie StringBuilder jest bardziej wydajne przy do³¹czaniu wielu ci¹gów znaków
+	

@@ -1,0 +1,15 @@
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\bin\Debug\DevHobby.Wpf.exe.config
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\bin\Debug\DevHobby.Wpf.exe
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\bin\Debug\DevHobby.Wpf.pdb
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\DevHobby.Wpf.csprojAssemblyReference.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\App.g.cs
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\DevHobby.Wpf_MarkupCompile.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\DevHobby.Wpf_MarkupCompile.lref
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\DevHobby.Wpf.g.resources
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\DevHobby.Wpf.Properties.Resources.resources
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\DevHobby.Wpf.csproj.GenerateResource.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\DevHobby.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\DevHobby.Wpf.exe
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Wpf\obj\Debug\DevHobby.Wpf.pdb

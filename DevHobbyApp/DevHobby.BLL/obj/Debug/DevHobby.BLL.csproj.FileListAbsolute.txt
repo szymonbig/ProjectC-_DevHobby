@@ -1,0 +1,9 @@
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.BLL\bin\Debug\DevHobby.BLL.dll
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.BLL\bin\Debug\DevHobby.BLL.pdb
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.BLL\obj\Debug\DevHobby.BLL.csprojAssemblyReference.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.BLL\obj\Debug\DevHobby.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.BLL\obj\Debug\DevHobby.BLL.dll
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.BLL\obj\Debug\DevHobby.BLL.pdb
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.BLL\bin\Debug\DevHobby.Common.dll
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.BLL\bin\Debug\DevHobby.Common.pdb
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.BLL\obj\Debug\DevHobby.BLL.csproj.CopyComplete

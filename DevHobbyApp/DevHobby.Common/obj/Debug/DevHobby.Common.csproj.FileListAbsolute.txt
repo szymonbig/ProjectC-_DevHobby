@@ -1,0 +1,6 @@
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Common\bin\Debug\DevHobby.Common.dll
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Common\bin\Debug\DevHobby.Common.pdb
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Common\obj\Debug\DevHobby.Common.csprojAssemblyReference.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Common\obj\Debug\DevHobby.Common.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Common\obj\Debug\DevHobby.Common.dll
+C:\Users\Szymon\Documents\Visual Studio 2017\Projekty\DevHobbyApp\DevHobby.Common\obj\Debug\DevHobby.Common.pdb
